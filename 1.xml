@@ -4,7 +4,7 @@
     xmlns:media="https://shaman2016scratch.github.io/MyNews/"
     version="2.0">
     <channel>
-      <title>Какой-то заголовок</title>
+      <title>MyNews SHAMAN2016</title>
       <link>https://shaman2016scratch.github.io/</link>
       <description>Какое-то описание</description>
       <item>
