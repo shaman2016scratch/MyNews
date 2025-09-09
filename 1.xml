@@ -1,1 +1,29 @@
-
+<?xml version="1.0" encoding="windows-1251"?>
+  <rss 
+    xmlns:yandex="https://shaman2016scratch.github.io/MyNews/" 
+    xmlns:media="https://shaman2016scratch.github.io/MyNews/"
+    version="2.0">
+    <channel>
+      <title>Какой-то заголовок</title>
+      <link>https://shaman2016scratch.github.io/</link>
+      <description>Какое-то описание</description>
+      <item>
+        <title>Ещё заголовок</title>
+        <link>https://shaman2016scratch.github.io/MyNews/</link>
+        <pdalink>https://shaman2016scratch.github.io/MyNews/</pdalink>
+        <description>Опять описание</description>
+        <author>Scratcher SHAMAN2016</author>
+        <category>Программирование</category>
+         <media:group>
+          <media:content 
+            url="https://shaman2016scratch.github.io/MyNews/" 
+            type="video/mp4"/>
+          <media:thumbnail 
+            url="https://shaman2016scratch.github.io/MyNews/"/> 
+        </media:group>
+        <pubDate>Sun, 9 Sep 2025 12:00:00 +0300</pubDate>
+        <yandex:genre>message</yandex:genre>
+        <yandex:full-text>Какой-то текст</yandex:full-text>
+       </item>
+     </channel>
+  </rss>
